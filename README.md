@@ -14,6 +14,20 @@ Automatically classify complaints, analyze sentiment, identify critical issues, 
 <img width="1907" height="960" alt="Screenshot 2026-06-24 201450" src="https://github.com/user-attachments/assets/a400de5c-7321-487e-8002-3dfa9b2da1b2" />
 
 
+<img width="1882" height="942" alt="Screenshot 2026-06-24 201539" src="https://github.com/user-attachments/assets/c1f013f6-7c5b-426a-9cb7-19e8aff32c08" />
+
+
+<img width="1902" height="950" alt="Screenshot 2026-06-24 201549" src="https://github.com/user-attachments/assets/1f44ad6a-ae00-4c17-aafa-b8eb1f3dc3df" />
+
+
+<img width="1895" height="953" alt="Screenshot 2026-06-24 201627" src="https://github.com/user-attachments/assets/58933848-4db1-44ab-83e2-8ac3dc45005c" />
+
+<img width="1897" height="933" alt="Screenshot 2026-06-24 201836" src="https://github.com/user-attachments/assets/c1a55e4e-1632-4706-92cf-a4aa01872732" />
+
+
+
+
+
 ## 📌 Problem Statement
 
 Organizations receive thousands of customer complaints through emails, support tickets, feedback forms, and social media channels. Manually reviewing these complaints is time-consuming, inconsistent, and difficult to scale.
